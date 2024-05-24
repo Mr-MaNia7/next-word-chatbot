@@ -1,2 +1,2 @@
-# cs-project
+# next-word-chatbot
 Cognitive Science
